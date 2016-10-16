@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "14943795757",
+    "firebase_url": "https://pharmacy-rating.firebaseio.com",
+    "project_id": "pharmacy-rating",
+    "storage_bucket": "pharmacy-rating.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14943795757:android:0d4e03181634d29f",
+        "android_client_info": {
+          "package_name": "com.pharmrating.seagate.pharmacyrating"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14943795757-12jrp499d7ucl7t68sd7vih86obgolig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCBGITd4SY8pX91hUEV94H_3SBqdKDraY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
